@@ -34,7 +34,7 @@ export default function ExperienceSection() {
                 onClick={() => toggle(index)}
                 className="flex items-start justify-between gap-4 cursor-pointer select-none"
               >
-                <div className="space-y-1">
+                <div className="space-y-0.5">
                   <div className="flex flex-wrap items-center gap-2">
                     <h3 className="text-base font-medium text-neutral-900 dark:text-neutral-100">
                       {exp.role}

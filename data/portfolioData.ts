@@ -26,7 +26,7 @@ export const PERSONAL_INFO = {
   name: "Ratan Rathod",
   role: "Design Engineer",
   shortRole: "Design Engineer",
-  location: "Mumbai",
+  location: "Dhule, Maharashtra",
   country: "India",
   status: "Available for new projects",
   heroBio:
@@ -39,7 +39,7 @@ export const PERSONAL_INFO = {
       url: "https://linkedin.com/in/ratanrathod7",
       handle: "ratanrathod7",
     },
-    { name: "X", url: "https://twitter.com/ratan_codes", handle: "@ratan_codes" },
+    { name: "X", url: "https://twitter.com/ratan_codes", handle: "@ratan_rathod7" },
     {
       name: "Instagram",
       url: "https://instagram.com/ratanz.codes",
