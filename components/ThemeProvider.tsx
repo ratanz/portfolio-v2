@@ -25,7 +25,6 @@ export function ThemeProvider({ children }: { children: React.ReactNode }) {
       setTheme(saved);
       document.documentElement.classList.toggle("dark", saved === "dark");
     } else {
-      // Default to dark mode for sleek editorial vibe
       setTheme("dark");
       document.documentElement.classList.add("dark");
     }
