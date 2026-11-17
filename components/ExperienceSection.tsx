@@ -40,7 +40,7 @@ export default function ExperienceSection() {
                       {exp.role}
                     </h3>
                     <span className="font-serif italic text-neutral-500 dark:text-neutral-400">
-                      at {exp.company}
+                       {exp.company}
                     </span>
                   </div>
                   <div className="flex items-center gap-2 text-xs font-mono text-neutral-400 dark:text-neutral-500">
