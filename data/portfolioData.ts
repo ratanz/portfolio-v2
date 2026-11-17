@@ -60,6 +60,28 @@ export const PERSONAL_INFO = {
 
 export const EXPERIENCES: Experience[] = [
   {
+    company: "Self-Employed",
+    role: "Web Developer",
+    period: "Jul 2025 – Nov 2026",
+    type: "Full-time · Remote",
+    description: [
+      "Delivered 100+ projects for clients over 1.5 years of full-time freelancing, working as an independent design engineer across websites, web applications, and full-stack products.",
+      "Handled the complete product lifecycle for each engagement: UI design, frontend development, backend architecture, authentication, database integration, and deployment. Clients worked with one person from the first concept to the final launch, which meant faster delivery, consistent quality, and clear communication throughout.",
+      "Built with a modern stack including Next.js, React, TypeScript, Tailwind CSS, Node.js, PostgreSQL, and MongoDB, with GSAP and Framer Motion for polished, animation-rich interfaces. Integrated AI-assisted workflows into the development process to accelerate delivery without compromising code quality.",
+    ],
+    tech: [
+      "Next.js",
+      "React",
+      "TypeScript",
+      "Tailwind CSS",
+      "Node.js",
+      "PostgreSQL",
+      "MongoDB",
+      "GSAP",
+      "Framer Motion",
+    ],
+  },
+  {
     company: "Phoenix Fits",
     role: "Freelance Web Developer",
     period: "Jan 2024 – May 2025",
@@ -75,7 +97,7 @@ export const EXPERIENCES: Experience[] = [
   },
   {
     company: "Accenture",
-    role: "Advanced Engineering Simulation",
+    role: "Software Engineering Intern",
     period: "Jan 2025 – Feb 2025",
     type: "Virtual Internship · Forage",
     description: [
@@ -88,7 +110,7 @@ export const EXPERIENCES: Experience[] = [
   },
   {
     company: "JPMorgan Chase & Co.",
-    role: "Software Engineering Simulation",
+    role: "Enterprise Software Engineering Intern",
     period: "May 2023 – Jul 2023",
     type: "Virtual Internship · Forage",
     description: [
